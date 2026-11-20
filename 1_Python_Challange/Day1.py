@@ -231,15 +231,4 @@ print()
 
 print("Day 1 complete!")
 
-# ============================================================
-# PRACTICE TASKS - try these yourself
-# ============================================================
-# 1. Store your name, age and city in variables and print one sentence using an f-string.
-# 2. Swap two numbers WITHOUT using a, b = b, a (hint: use + and -).
-# 3. Read a number of days and convert it to years, weeks and days.
-# 4. Calculate the BMI: weight (kg) / height (m) ** 2.
-# 5. Check if a number is divisible by both 3 and 5 using % and 'and'.
-# 6. Find the last digit of any number using %.
-# 7. Calculate compound interest: P * (1 + R/100) ** T - P.
-# 8. Check whether a year is a leap year:
-#    (year % 4 == 0 and year % 100 != 0) or (year % 400 == 0)
+
